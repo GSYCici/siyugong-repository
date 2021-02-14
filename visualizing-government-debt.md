@@ -23,7 +23,7 @@ These column charts show the Debt-to-GDP ratio from 1995 to 2019 of main countri
 
 ## Methods of Visualization & Data Analysis
 
-1. Method of Visualization
+1 Method of Visualization
 * General government debt in 2019
 The first plot is a bar chart which uses a descent order to rank the Debt-to-GDP ratio for countries. Because the first plot only shows the data for one year, using a single bar chart with an order can make the different ratio in different countries clearly and intuitively.
 * Line Chart of Government Debt by Country for 1995 - 2018
@@ -31,5 +31,5 @@ The second plot uses grid of line charts to combine each line chart for a countr
 * Column Chart of Government Debt by Country for 1995 - 2019
 The third plot is a grid of column charts to combine each column chart for a country together. This one is similar as the second plot, and just changes the line charts to the column charts. The column chart is easier for reader to read the values of the data.
 
-2. Data Analysis
+2 Data Analysis
 The Debt-to-GDP ratio in Greece in 2019 is the largest from the first plot, and that in Estonia in 2019 is the smallest (The True data in 2019 for Japan which is missing might by larger than Greece). Comparing to other countries, the Debt-to-GDP ratio in Japan shows the fastest escalating trend from 1995 to 2018, and Debt-to-GDP ratio in Sweden shows a slightly downtrend 1995 to 2018.
