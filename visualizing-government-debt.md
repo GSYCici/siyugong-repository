@@ -23,7 +23,7 @@ These column charts show the Debt-to-GDP ratio from 1995 to 2019 of main countri
 
 ## Methods of Visualization & Data Analysis
 
-1 Method of Visualization
+1. Method of Visualization
 * General government debt in 2019
 The first plot is a bar chart which uses a descent order to rank the Debt-to-GDP ratio for countries. Because the first plot only shows the data for one year, using a single bar chart with an order can make the different ratio in different countries clearly and intuitively.
 * Line Chart of Government Debt by Country for 1995 - 2018
