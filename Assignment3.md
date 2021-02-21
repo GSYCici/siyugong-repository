@@ -20,19 +20,24 @@ Thus, I decided to redesign 2 thing: 1.I expanded the scale of y-axis, so that t
 Q1: Can you tell me what you think this is?
 A from audience 1: This a graph on demographic data in Brazil.
 A from audience 2: Trends in average income per capita in Brazil by age group relative to the overall average from 2012-2019. 
+
 Q2: Can you describe to me what this is telling you?
 A from audience 1: This is a chart describing average per capita income in Brazil throughout the years by different age groups.
 A from audience 2: Elderly (over 60 years old) has largest increase in average income, followed by 25-59 years old from 2012-2019. Workers below 25 generally see a fall in average income. 
+
 Q3: Is there anything you find surprising or confusing?
 A from audience 1: No. There is not.
 A from audience 2: Why is the elderly seeing a far greater increase in average incomes when they should be retiring? What are the drivers?
 Why is there an average income for under 13 years old? Are they even legal to work? Are they receiving income from govt payouts/parents?
+
 Q4: Who do you think is the intended audience for this?
 A from audience 1: Readers of a statistical report or the general public looking for information on the populace in Brazil.
 A from audience 2: Policymakers (Dept of Labor) can use this to assess the state of Brazil’s workforce as well as evaluate policies they had implemented for certain groups (e.g. over 60 years old)
+
 Q5: Is there anything you would change or do differently?
 A from audience 1: I may add a grid just to make the scale more intuitive or add numbers to the average data or highlight the area below average data to make it stand out more.
 A from audience 1: Be clear what income means – Is it from wages from work or include govt handouts/transfers etc.
+
 
 I took the recommendation of adding a grid to make the scale more intuitive. But I didn't highlight the lines which are below to the average line, because this graph only express the average income per capita among different groups of people, it doesn't aim to emphasize the groups which have lower income than average. And I did take the advice of being clear what income means, because the data source doesn't provide this information.
 
