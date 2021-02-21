@@ -52,5 +52,3 @@ In addition, I changed the "Total" in original graph to "Average", because I thi
 Microdados da PNAD Continua (2012 to 2019)
 https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?=&t=o-que-e
 
-
-
