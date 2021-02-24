@@ -47,6 +47,31 @@ In addition, I changed the "Total" in original graph to "Average", because I thi
 
 <script type='text/javascript' src='https://prod-apnortheast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1504px; height: 808px;'><object class='tableauViz' width='1504' height='808' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-apnortheast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;siyugongtableau' /><param name='name' value='AverageIncomeperCapitainBrazil&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
 
+<div class='tableauPlaceholder' id='viz1614180708879' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;
+  static&#47;
+  images&#47;
+  As&#47;
+  Assignment3_16139316854420&#47;
+  Sheet1&#47;
+  1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;
+  '><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment3_16139316854420&#47;
+  Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;
+  &#47;
+  public.tableau.com&#47;
+  static&#47;
+  images&#47;
+  As&#47;
+  Assignment3_16139316854420&#47;
+  Sheet1&#47;
+  1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1614180708879');
+  2.                    var vizElement = divElement.getElementsByTagName('object')[0];
+  3.                                        vizElement.style.width='100%';
+  4.                                        vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  5.                                                            var scriptElement = document.createElement('script');
+  6.                                                                                scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  7.                                                                                                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+  8.                                                                                                                    </script>
+
 # Data Source
 
 Microdados da PNAD Continua (2012 to 2019)
