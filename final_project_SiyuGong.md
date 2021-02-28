@@ -17,8 +17,10 @@ This project used data visualization to show the prevalence of mental health dis
 
 ## Initial sketches
 
-![initial sketches](sketches.jpg)
+![Initial sketches](sketches.jpg)
  
+## The data
+
 
 
 
