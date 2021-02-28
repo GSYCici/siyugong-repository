@@ -23,7 +23,9 @@ This project used data visualization to show the prevalence of mental health dis
 
 Data Source: 
 
-Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018. http://ghdx.healthdata.org/gbd-results-tool 
+Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018. 
+
+http://ghdx.healthdata.org/gbd-results-tool  
 
 I plan to extract the data that I need from this data source, for example, the mental disorders by countries, age, gender and educational level. 
 And I might not analyze all the countries in my story, so I will filter the data with several main countries in the world.
