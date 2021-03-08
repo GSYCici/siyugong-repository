@@ -9,13 +9,13 @@ This is the lowest rate in 50 years.
 However, although the divorce in America just hit a record low, it still much higher than that in many other countries.
 
 <iframe
-src="https://public.tableau.com/views/RatiooftheNumberofDivorcesbyCountriesin2018per1000people/Sheet1?:showVizHome=no&:embed=true" width="100%" height="600" seamless frameborder="0" scrolling="no"></iframe>
+src="https://public.tableau.com/views/RatiooftheNumberofDivorcesbyCountriesin2018per1000people/Sheet1?:showVizHome=no&:embed=true" width="90%" height="600" seamless frameborder="0" scrolling="no"></iframe>
 
-## Data Source: 
-- For European countries, the data comes from the Eurostat dataset.
-- For the US the series is composed of data taken from three sources: Carter et al. (2006) for the period 1920 - 1995; the US Census Bureau (2007) for the period 1996 - 2004; and the CDC for the period 2005 to present.
-- For other non-European countries that are OECD members, the data comes from the OECD Family Database.
-- For all other countries the data comes from the UN World Marriage Database
+* Data Source: 
+  - For European countries, the data comes from the Eurostat dataset.
+  - For the US the series is composed of data taken from three sources: Carter et al. (2006) for the period 1920 - 1995; the US Census Bureau (2007) for the period 1996 - 2004; and the CDC for the period 2005 to present.
+  - For other non-European countries that are OECD members, the data comes from the OECD Family Database.
+  - For all other countries the data comes from the UN World Marriage Database
 
 
 
