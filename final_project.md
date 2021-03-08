@@ -12,8 +12,14 @@ However, although the divorce in America just hit a record low, it still much hi
 src="https://public.tableau.com/views/RatiooftheNumberofDivorcesbyCountriesin2018per1000people/Sheet1?:showVizHome=no&:embed=true" width="90%" height="600" seamless frameborder="0" scrolling="no"></iframe>
 Image 1
 
+Using one years data may not be convincing enough to compare the ratio of divorces by countries, so I will show you the trend of divorces since last century.
+
+<iframe
+src="https://public.tableau.com/views/AverageNumberofDivorcesper1000PeoplebyCountries/Sheet2?:showVizHome=no&:embed=true" width="90%" height="600" seamless frameborder="0" scrolling="no"></iframe>
+Image 2
+
 # Data Source: 
-1. Image 1
+1. Image 1 & Image 2
   - For European countries, the data comes from the Eurostat dataset.
   - For the US the series is composed of data taken from three sources: Carter et al. (2006) for the period 1920 - 1995; the US Census Bureau (2007) for the period 1996 - 2004; and the CDC for the period 2005 to present.
   - For other non-European countries that are OECD members, the data comes from the OECD Family Database.
