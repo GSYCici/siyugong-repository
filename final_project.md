@@ -11,13 +11,13 @@ This is the lowest rate in 50 years.
 However, although the divorce in America just hit a record low, it still much higher than that in many other countries. 
 
 <iframe
-src="https://public.tableau.com/views/RatiooftheNumberofDivorcesbyCountriesin2018per1000people/Sheet1?:showVizHome=no&:embed=true" width="90%" height="600" seamless frameborder="0" scrolling="no"></iframe>
+src="https://public.tableau.com/views/RatiooftheNumberofDivorcesbyCountriesin2018per1000people/Sheet1?:showVizHome=no&:embed=true" width="100%" height="600" seamless frameborder="0" scrolling="no"></iframe>
 Image 1
 
 Using one years data may not be convincing enough to compare the ratio of divorces by countries, so I will show you the trend of divorces since last century.
 
 <iframe
-src="https://public.tableau.com/views/AverageNumberofDivorcesper1000PeoplebyCountries/Sheet2?:showVizHome=no&:embed=true" width="90%" height="600" seamless frameborder="0" scrolling="no"></iframe>
+src="https://public.tableau.com/views/AverageNumberofDivorcesper1000PeoplebyCountries/Sheet2?:showVizHome=no&:embed=true" width="100%" height="600" seamless frameborder="0" scrolling="no"></iframe>
 Image 2
 
 From this chart, we can find that the divorce rate in the US has fluctuated violently from 1920 t0 2018. The reasons are related to the history and cultural development of the United States.
@@ -37,7 +37,7 @@ Have you ever heard about "The seven-year itch", which means that happiness in a
 Therefore, how long have the couples took from loving each other to hating becomes to an interesting study to test this saying.
 
 <iframe
-src="https://public.tableau.com/views/TheMedianDurationofMarriagesthatEndinDivorce/Sheet3?:showVizHome=no&:embed=true" width="90%" height="600" seamless frameborder="0" scrolling="no"></iframe>
+src="https://public.tableau.com/views/TheMedianDurationofMarriagesthatEndinDivorce/Sheet3?:showVizHome=no&:embed=true" width="100%" height="600" seamless frameborder="0" scrolling="no"></iframe>
 Image 3
 
 From this chart, we can generally say that "The seven-year itch" is probably true in America. Because the median duration of marriages that end in divorce is around 7 for nearly two centuries. And we can also generally conclude that the countried with lower divorce rate will also have longer duration of marriages that end in divorce.
