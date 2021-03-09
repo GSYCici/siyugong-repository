@@ -44,7 +44,7 @@ From this chart, we can generally say that "The seven-year itch" is probably tru
 
 ## Possible Factors Lead to Divorce
 
-In recent years, more and more researches are focusing on studying the possible factors that might affect marriages and lead to divorce. For example, the ethnicity, lack of preparation for marriage, domestic violence or abuse and financial problems are all important factors to affect the marriages. But I would choose another 3 interesting factors here.
+In recent years, more and more researches are focusing on studying the possible factors that might affect marriages and lead to divorce. For example, the ethnicity, lack of preparation for marriage, domestic violence or abuse and financial problems are all important factors to affect the marriages. But I would choose another 2 interesting factors here.
 
 ### Professions Impact on Divorce Rate
 
@@ -56,7 +56,7 @@ Image 5
 
 The reason behind might be that the couple's professions will influence their life style, which impact their marriage quality. For example, the traditional careers like physician，engineer, and farmer might have more spare time getting along with their partners to maintain their marriage. And the untraditional jobs like dancer and gaming service works might be in different social circle, and live with an irregular schedule, which makes them hard to maintain the marriage.
 
-### Average Age Marriage
+### Average Age at Marriage
 
 Marrying too young is proved to be another reason leading the divorce, because the immature mentality of young people may cause the lack of preparation for marriage. They imagined the marriage wonderful before they got married, but found that this is not the case in real life.
 
@@ -66,9 +66,19 @@ Image 6
 
 From this data collected in 2017, the average age of female when they got married in America is relative younger, which may lead to the higher divorce rate.
 
-### 
+## Interesting Finding: Relational Mobility Associated with More Frequent Gift Exchanging
 
+Many people may suppose that the more frequent the gift giving among married couples, the stronger their relationship will be. However, researchers found that periodical gift exchanges work as commitment signals among married couples, And married couples still may occasionally encounter potential mates more attractive than their current partner —especially if they have frequent opportunities to meet new people, which is characterized as high relational mobility. Therefore, under that environments, couples need the commitment signals like gifts to stay in the married relationship. 
+(Reference: Nesse, R. M. (2001). Natural selection and the capacity for subjective commitment. In R.M. Nesse (Ed.). Evolution and the Capacity for Commitment (pp. 1–44). New York: Russel Sage Foundation.)
 
+![Gift Exchanges](Gift Exchanges.jpg)
+Image 7
+
+Based this Pictorial unit chart, we can find the medain gift exchanges among American couples per year is more frequent than that among Japanese couples, especially for married couples. According to the research by Nesse, the higher divorce rate in the US can also support the hypothesis that divorce rate is positively associated with the frequency of gift exchanges.
+
+## Conclusion and Call to Action
+
+The divorce rate in the US just hit a record low in 2019. And is estimated to be in continuous declination in recent few years. However, the US still has the 6th highest divorce rate in the world, that almost half of all marriages in the will end in divorce or separation. Many factors are associated with the disvorce rate, like the professions, age at marriage. And the median duration of marriages that end in divorce is around 7 years. Thus, please carefully consider clearly and do make adequate preparation before deciding to get married. Don't decide on impulse when you are young. After you get married, please spend time and communicate more with your partner, if you want to maintain your relationship and marriage, especially for those who work in untraditional careers. And be more patient and try to understand your partner if you are suffering "The seven-year itch". Last, you may need to pay attention to your partner's relational mobility if he/she shows commitment signals to you frequently all of a sudden. 
 
 ## Data Source: 
 1. Image 1, Image 2 and Image 3
@@ -82,26 +92,8 @@ From this data collected in 2017, the average age of female when they got marrie
 3. Image 6
   - United Nations, Department of Economic and Social Affairs, Population Division (2019). World Marriage Data 2019 (POP/DB/Marr/Rev2019); OECD Social policies and data.
     UN: https://population.un.org/ffps/Index.html#/maritalStatusData; OECD: http://www.oecd.org/els/soc/SF_3_1_Marriage_divorce_rates.xlsx
+4. Image 7
+  - Komiya, Asuka, Yohsuke Ohtsubo, and Daisuke Nakanishi. 2018. "Gift-Giving in Romantic Couples Serves as a Commitment Signal." OSF. October 17. osf.io/nsqf8
 
 
 
-
-
-A lower divorce rate means longer marriages. According to the new Census data, the median duration of current marriages in the U.S. has increased almost one year in the recent decade, from 19 years in 2010  to 19.8 years in 2019.
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  What happened to a loving couple that led them to the end of divorce? 
