@@ -2,11 +2,11 @@
 
 # From sweet Vows to Broken Families
 
+What do you estimate is the divorce rate of American families in recent years? And I guess many people will underestimate this. The United States has the 6th highest divorce rate in the world, that almost half of all marriages in the US will end in divorce or separation. However, the divorce in America has been falling fast in recent years.
+
 ## How the Divorce Rate Has Changed over the Last 100 Years
 
-What do you think is the divorce rate of American families in recent years? I bet that only few people know that the divorce in America has been falling fast in recent years, 
-and it just hit a record low in 2019. For every 1,000 marriages in 2019, only 14.9 ended in divorce, according to the newly released American Community Survey data from the Census Bureau. 
-This is the lowest rate in 50 years. 
+The divorce rate just hit a record low in 2019. For every 1,000 marriages in 2019, only 14.9 ended in divorce, according to the newly released American Community Survey data from the Census Bureau, which is the lowest rate in 50 years. 
 
 However, although the divorce in America just hit a record low, it still much higher than that in many other countries. 
 
@@ -42,9 +42,31 @@ Image 3
 
 From this chart, we can generally say that "The seven-year itch" is probably true in America. Because the median duration of marriages that end in divorce is around 7 for nearly two centuries. And we can also generally conclude that the countried with lower divorce rate will also have longer duration of marriages that end in divorce.
 
-## Average Age of Women at Marriage
+## Possible Factors Lead to Divorce
 
+In recent years, more and more researches are focusing on studying the possible factors that might affect marriages and lead to divorce. For example, the ethnicity, lack of preparation for marriage, domestic violence or abuse and financial problems are all important factors to affect the marriages. But I would choose another 3 interesting factors here.
 
+### Professions Impact on Divorce Rate
+
+Evidence shows that couple's professions influence their marriage a lot.
+<div class="flourish-embed flourish-radar" data-src="visualisation/5505327"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Image 4
+<div class="flourish-embed flourish-radar" data-src="visualisation/5505501"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Image 5
+
+The reason behind might be that the couple's professions will influence their life style, which impact their marriage quality. For example, the traditional careers like physician，engineer, and farmer might have more spare time getting along with their partners to maintain their marriage. And the untraditional jobs like dancer and gaming service works might be in different social circle, and live with an irregular schedule, which makes them hard to maintain the marriage.
+
+### Average Age Marriage
+
+Marrying too young is proved to be another reason leading the divorce, because the immature mentality of young people may cause the lack of preparation for marriage. They imagined the marriage wonderful before they got married, but found that this is not the case in real life.
+
+<iframe
+src="https://public.tableau.com/views/AverageAgeofWomenatMarriagein2017/Sheet4?:showVizHome=no&:embed=true" width="100%" height="600" seamless frameborder="0" scrolling="no"></iframe>
+Image 6
+
+From this data collected in 2017, the average age of female when they got married in America is relative younger, which may lead to the higher divorce rate.
+
+### 
 
 
 
@@ -54,7 +76,12 @@ From this chart, we can generally say that "The seven-year itch" is probably tru
   - For the US the series is composed of data taken from three sources: Carter et al. (2006) for the period 1920 - 1995; the US Census Bureau (2007) for the period 1996 - 2004; and the CDC for the period 2005 to present.
   - For other non-European countries that are OECD members, the data comes from the OECD Family Database.
   - For all other countries the data comes from the UN World Marriage Database
-
+2. Image 4 and Image 5
+  - Divorce Statistics: Over 115 StudiesS, Facts and Rates for 2020. Wilkinson & Finkbeiner Family Law Attorneys 
+    https://www.wf-lawyers.com/divorce-statistics-and-facts/
+3. Image 6
+  - United Nations, Department of Economic and Social Affairs, Population Division (2019). World Marriage Data 2019 (POP/DB/Marr/Rev2019); OECD Social policies and data.
+    UN: https://population.un.org/ffps/Index.html#/maritalStatusData; OECD: http://www.oecd.org/els/soc/SF_3_1_Marriage_divorce_rates.xlsx
 
 
 
@@ -72,11 +99,7 @@ A lower divorce rate means longer marriages. According to the new Census data, t
 
 
 
-* Summary:
-  * Divorce data in the whole world
-  * Why the trends of the divource in the U.S. (From 20 Century till now)
-  * The years before divorce
-  * Age while marriage
+
   
   
   
