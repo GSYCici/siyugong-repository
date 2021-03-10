@@ -101,25 +101,25 @@ The divorce rate in the US just hit a record low in 2019. And is estimated to be
 2. Approach to identifying representative individuals to interview: I found 4 people to participate in my user interview, including 1 unmarried female (A), 1 unmarried male (B), 1 married female (c) and 1 married male (D). So these interviewees basically cover all the features of my target audiences.
 3. My interview script and feedbacks:
    * Is this storyboard easy for you to understand?
-    * A: Yes, it is easy to understand. Though it might be even clearer with an index at the beginning.
-    * B: Yes, it is easy to understand overall. But there is a small problem: These pictures are interactive, which means that there are some elements on the pictures that can be clicked and then change the way of data representation, but the interactive functions have not been clearly explained.
-    * C: Yes, it looks clear and organized.
-    * D: Yes, it is easy to understand for me.
+     * A: Yes, it is easy to understand. Though it might be even clearer with an index at the beginning.
+     * B: Yes, it is easy to understand overall. But there is a small problem: These pictures are interactive, which means that there are some elements on the pictures that can be clicked and then change the way of data representation, but the interactive functions have not been clearly explained.
+     * C: Yes, it looks clear and organized.
+     * D: Yes, it is easy to understand for me.
    * Is it interesting for you? Which part draw your attention the most?
-    * A: Yes, the graphs draw my attention the most because they are eye-catching.
-    * B: For me personally, the part that draws my attention most is the parts around image 4 and image 5, especially image 5. I’m originally very interested in the question that what professions have lower or higher divorce rates, and here its answer involves agricultural engineers, podiatrists, optometrists - these professions make me feel very impressive, and their divorce rate is so low, making me feel very interesting.
-    * C: The relation between the divorce rate and the history and cultural development of the US.
-    * D: The reason of the decline of divorce rate of  the united states.
+     * A: Yes, the graphs draw my attention the most because they are eye-catching.
+     * B: For me personally, the part that draws my attention most is the parts around image 4 and image 5, especially image 5. I’m originally very interested in the question that what professions have lower or higher divorce rates, and here its answer involves agricultural engineers, podiatrists, optometrists - these professions make me feel very impressive, and their divorce rate is so low, making me feel very interesting.
+     * C: The relation between the divorce rate and the history and cultural development of the US.
+     * D: The reason of the decline of divorce rate of  the united states.
    * Do you think it’s a good storyboard to tell these research and data? 
-    * A: Yes, it incorporates fun facts and sayings to add to the readability and interestingness. And does cover many areas concerning the topic. 
-    * B: Yes, I think this is a good storyboard overall.
-    * C: Yes, it’s interesting, and the figures are very clear.
-    * D: Yes, I’m interested in the storyboard. The storyboard is organized in a well-manner. 
+     * A: Yes, it incorporates fun facts and sayings to add to the readability and interestingness. And does cover many areas concerning the topic. 
+     * B: Yes, I think this is a good storyboard overall.
+     * C: Yes, it’s interesting, and the figures are very clear.
+     * D: Yes, I’m interested in the storyboard. The storyboard is organized in a well-manner. 
    * Do you have any suggestions for improvement?
-    * A: I would suggest using brighter colors for the graphs to be more attention-drawing. I would also label the graphs with their names instead of ‘image x’
-    * B: Many pictures in the article are interactive, this should be informed to the audiences.
-    * C：Divorce rate maybe also related with marriage rate, if analysis the general picture can tall a whole story. 
-    * D: You should provide a total introduction of all sections in the  beginning of the storyboard.
+     * A: I would suggest using brighter colors for the graphs to be more attention-drawing. I would also label the graphs with their names instead of ‘image x’
+     * B: Many pictures in the article are interactive, this should be informed to the audiences.
+     * C：Divorce rate maybe also related with marriage rate, if analysis the general picture can tall a whole story. 
+     * D: You should provide a total introduction of all sections in the  beginning of the storyboard.
 4. Findings from the feedback: Generally it's a good storyboard and interviews are interested in different parts of the storyboard, but it still needs to be improved. Many interviewees mention the lack of index at the top.
 5. Changes I plan to revise next week: 
    - Adding an index at the top.
