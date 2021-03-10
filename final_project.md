@@ -2,7 +2,7 @@
 
 # From sweet Vows to Broken Families
 
-What do you estimate is the divorce rate of American families in recent years? And I guess many people will underestimate this. The United States has the 6th highest divorce rate in the world, that almost half of all marriages in the US will end in divorce or separation. However, the divorce in America has been falling fast in recent years.
+What do you estimate is the divorce rate of American families in recent years? And I guess many people will underestimate this. The United States has the 6th highest divorce rate in the world. However, the divorce in America has been falling fast in recent years.
 
 ## How the Divorce Rate Has Changed over the Last 100 Years
 
@@ -40,7 +40,7 @@ Therefore, how long have the couples took from loving each other to hating becom
 src="https://public.tableau.com/views/TheMedianDurationofMarriagesthatEndinDivorce/Sheet3?:showVizHome=no&:embed=true" width="100%" height="600" seamless frameborder="0" scrolling="no"></iframe>
 Image 3
 
-From this chart, we can generally say that "The seven-year itch" is probably true in America. Because the median duration of marriages that end in divorce is around 7 for nearly two centuries. And we can also generally conclude that the countried with lower divorce rate will also have longer duration of marriages that end in divorce.
+From this chart, we can generally say that "The seven-year itch" is probably true in America. Because the median duration of marriages that end in divorce is around 7 for nearly two centuries. And we can also generally conclude that the countries with lower divorce rate will also have longer duration of marriages that end in divorce.
 
 ## Possible Factors Lead to Divorce
 
@@ -94,6 +94,42 @@ The divorce rate in the US just hit a record low in 2019. And is estimated to be
     UN: https://population.un.org/ffps/Index.html#/maritalStatusData; OECD: http://www.oecd.org/els/soc/SF_3_1_Marriage_divorce_rates.xlsx
 4. Image 7
   - Komiya, Asuka, Yohsuke Ohtsubo, and Daisuke Nakanishi. 2018. "Gift-Giving in Romantic Couples Serves as a Commitment Signal." OSF. October 17. osf.io/nsqf8
+
+## User research and interviews
+
+1. Target audiences I hope to reach with my story: All those who are interested in the topic of marriage, for both male and female, married person and unmarried person.
+2. Approach to identifying representative individuals to interview: I found 4 people to participate in my user interview, including 1 unmarried female (A), 1 unmarried male (B), 1 married female (c) and 1 married male (D). So these interviewees basically cover all the features of my target audiences.
+3. My interview script and feedbacks:
+   * Is this storyboard easy for you to understand?
+     ** A: Yes, it is easy to understand. Though it might be even clearer with an index at the beginning.
+     ** B: Yes, it is easy to understand overall. But there is a small problem: These pictures are interactive, which means that there are some elements on the pictures that can be clicked and then change the way of data representation, but the interactive functions have not been clearly explained.
+     ** C: Yes, it looks clear and organized.
+     ** D: Yes, it is easy to understand for me.
+   * Is it interesting for you? Which part draw your attention the most?
+     ** A: Yes, the graphs draw my attention the most because they are eye-catching.
+     ** B: For me personally, the part that draws my attention most is the parts around image 4 and image 5, especially image 5. I’m originally very interested in the question that what professions have lower or higher divorce rates, and here its answer involves agricultural engineers, podiatrists, optometrists - these professions make me feel very impressive, and their divorce rate is so low, making me feel very interesting.
+     ** C: The relation between the divorce rate and the history and cultural development of the US.
+     ** D: The reason of the decline of divorce rate of  the united states.
+   * Do you think it’s a good storyboard to tell these research and data? 
+     ** A: Yes, it incorporates fun facts and sayings to add to the readability and interestingness. And does cover many areas concerning the topic. 
+     ** B: Yes, I think this is a good storyboard overall.
+     ** C: Yes, it’s interesting, and the figures are very clear.
+     ** D: Yes, I’m interested in the storyboard. The storyboard is organized in a well-manner. 
+   * Do you have any suggestions for improvement?
+     ** A: I would suggest using brighter colors for the graphs to be more attention-drawing. I would also label the graphs with their names instead of ‘image x’
+     ** B: Many pictures in the article are interactive, this should be informed to the audiences.
+     ** C：Divorce rate maybe also related with marriage rate, if analysis the general picture can tall a whole story. 
+     ** D: You should provide a total introduction of all sections in the  beginning of the storyboard.
+4. Findings from the feedback: Generally it's a good storyboard and interviews are interested in different parts of the storyboard, but it still needs to be improved. Many interviewees mention the lack of index at the top.
+5. Changes I plan to revise next week: 
+   - Adding an index at the top.
+   - Informing audiences that the images are interactive.
+   - Making image in a brighter color.
+   - Labeling the images with their title after "Image x".
+     
+
+
+
 
 
 
