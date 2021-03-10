@@ -1,5 +1,7 @@
 ## Final Project
 
+# From sweet Vows to Broken Families
+
 ## Guidance
 * Lily's trouble on her marriage
 * How the Divorce Rate Has Changed over the Last 100 Years
@@ -12,9 +14,7 @@
 * Data Source
 * User research and interviews (will diappear in the final project)
 
-# From sweet Vows to Broken Families
-
-Lily，an American professional dancer, is troubled by the increasingly cold relationship with her husband, and is considering a divorce from him. This is their eighth year of marriage, and their initial sweetness have been replaced by more and more quarrels and distance, and she is curious if many other couples are in the same situation. Thus, she searched on the Internet about the divorse rate in the US, and found that she underestimates that a lot. The United States has the 6th highest divorce rate in the world. However, the divorce in America has been falling fast in recent years.
+Lily, an American professional dancer, is troubled by the increasingly cold relationship with her husband, and is considering a divorce from him. This is their eighth year of marriage, and their initial sweetness have been replaced by more and more quarrels and distance, and she is curious if many other couples are in the same situation. Thus, she searched on the Internet about the divorse rate in the US, and found that she underestimates that a lot. The United States has the 6th highest divorce rate in the world. However, the divorce in America has been falling fast in recent years.
 
 ## How the Divorce Rate Has Changed over the Last 100 Years
 
