@@ -112,6 +112,7 @@ From the story of Lily, we learn that the divorce rate in the US just hit a reco
     UN: https://population.un.org/ffps/Index.html#/maritalStatusData; OECD: http://www.oecd.org/els/soc/SF_3_1_Marriage_divorce_rates.xlsx
 4. Image 7
   - Komiya, Asuka, Yohsuke Ohtsubo, and Daisuke Nakanishi. 2018. "Gift-Giving in Romantic Couples Serves as a Commitment Signal." OSF. October 17. osf.io/nsqf8
+(The reference citations are directly behind the referenced text.)
 
 ## User research and interviews
 
