@@ -1,6 +1,6 @@
 ## Final Project
 
-# From sweet Vows to Broken Families
+# From Sweet Vows to Broken Families
 
 ## Guidance
 * Lily's trouble on her marriage
