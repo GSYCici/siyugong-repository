@@ -14,7 +14,7 @@
 * Data Source
 * User research and interviews (will diappear in the final project)
 
-Lily, an American professional dancer, is troubled by the increasingly cold relationship with her husband, and is considering a divorce from him. This is their eighth year of marriage, and their initial sweetness have been replaced by more and more quarrels and distance, and she is curious if many other couples are in the same situation. Thus, she searched on the Internet about the divorse rate in the US, and found that she underestimates that a lot. The United States has the 6th highest divorce rate in the world. However, the divorce in America has been falling fast in recent years.
+Lily, an American professional dancer, is troubled by the increasingly cold relationship with her husband, and is considering a divorce from him. This is their eighth year of marriage, and their initial sweetness have been replaced by more and more quarrels and distance, and she is curious if many other couples are in the same situation. Thus, she searched on the Internet about the divorce rate in the US, and found that she underestimates that a lot. The United States has the 6th highest divorce rate in the world. However, the divorce in America has been falling fast in recent years.
 
 ## How the Divorce Rate Has Changed over the Last 100 Years
 
@@ -35,13 +35,13 @@ _Image 2: Average Number of Divorces per 1,000 People by Countries_ (This image 
 From this chart, the divorce rate in the US has fluctuated violently from 1920 to 2018. And she found that the divorce rate was pretty high in the era when his mother, Margaret, got married, in 1980s. So Lily called her mom to understand the background and reasons of that high divorce rate. Her mother answered that the reasons are related to the history and cultural development of the United States.
 
 * The Reason behind this Fluatuation
-  * During World War I, women entered the workforce when the US joined  World War II. They gained more independence and freedom, leading to a higher divorce rate in the US. In 1940, the rate was 2 divorces per 1,000 people, but reached 3.4 in 1947. 
+  * During World War II, women entered the workforce when the US joined  World War II. They gained more independence and freedom, leading to a higher divorce rate in the US. In 1940, the rate was 2 divorces per 1,000 people, but reached 3.4 in 1947. 
   * In The 1950s, the idea of the nuclear, All-American Family was created, which emphasized the family unit and marriage. Thus the divorce rate dropped again to 2.3 per 1,000 people in 1955. 
   * During the 1960s, women started to close the education gap and the US started to seek more progressive politics. As a result, women sought more independence, causing the divorce rate to rise significantly. In 1969, the rate jumped to 3.2 per Americans.
   * The 1970s were categorized by free love. People paid less attention on coupling and marriage, so the divorce rates rose dramatically. In this decade, divorce rate reached an all-time high. In 1970, the rate was 3.5, and by 1979, the rate was 5.3 per 1,000 American, with 1,193,062 divorces that year.  
   * After that peak, the rate continued to decline rapidly. TIME reports that older generations continue to get divorced, however, since the younger generation is getting married later in life and approaching marriage differently, the divorce rates dropped. Margaret approve of this saying that many friends of her got a divorce in last century.
   * Lily also learned that the decline in the divorce rate is likely to continue in 2021, despite the pandemic. Evidence found that the pandemic let some couples closer to each other. According to data from the American Family Survey, a majority of married Americans said that the pandemic has made them appreciate their spouse more and agree that their commitment to marriage has deepened.
-(Reference: Frank Olito. 2019. "How the Divorce Rate Has Changed over the Last 150 Years." INSIDER, https://www.insider.com/divorce-rate-changes-over-time-2019-1?utm_source=copy-link&utm_medium=referral&utm_content=topbar; by Wendy Wang. 2020. "The U.S. Divorce Rate Has Hit a 50-Year Low." Institute for Family Studies, https://ifstudies.org/blog/the-us-divorce-rate-has-hit-a-50-year-low)
+(Reference: Frank Olito. 2019. "How the Divorce Rate Has Changed over the Last 150 Years." INSIDER, https://www.insider.com/divorce-rate-changes-over-time-2019-1?utm_source=copy-link&utm_medium=referral&utm_content=topbar; Wendy Wang. 2020. "The U.S. Divorce Rate Has Hit a 50-Year Low." Institute for Family Studies, https://ifstudies.org/blog/the-us-divorce-rate-has-hit-a-50-year-low)
 
 ## The Duration of Marriages that End in Divorce
 
@@ -72,7 +72,7 @@ Unlike the traditional career workers such as physicians，engineers, and farmer
 
 ### Average Age at Marriage
 
-Another important reason leading to the divorce is getting married at a young age, and Lily also meets this condition. She got married at the age of 24, ounger than the average age at marriage in America, even though that age in America is already lower than that in many other countries. The immature mentality of young people may cause the lack of preparation for marriage. Just like Lily, imagining the marriage wonderful before they got married, but found that this is not the case in real life.
+Another important reason leading to the divorce is getting married at a young age, and Lily also meets this condition. She got married at the age of 24, younger than the average age at marriage in America, even though that age in America is already lower than that in many other countries. The immature mentality of young people may cause the lack of preparation for marriage. Just like Lily, imagining the marriage wonderful before they got married, but found that this is not the case in real life.
 
 <iframe
 src="https://public.tableau.com/views/AverageAgeofWomenatMarriagein2017/Sheet4?:showVizHome=no&:embed=true" width="100%" height="600" seamless frameborder="0" scrolling="no"></iframe>
@@ -90,13 +90,13 @@ Nesse stated that many people may suppose that the more frequent the gift giving
 ![Gift Exchanges](Gift Exchanges.jpg)
 _Image 7: Median Gift Exchanges among Japanese & American Couples_
 
-Based this Pictorial unit chart,Lily found the medain gift exchanges among American couples per year is more frequent than that among Japanese couples, especially for married couples. According to the research by Nesse, the higher divorce rate in the US can also support the hypothesis that divorce rate is positively associated with the frequency of gift exchanges.
+Based this Pictorial unit chart,Lily found the median gift exchanges among American couples per year is more frequent than that among Japanese couples, especially for married couples. According to the research by Nesse, the higher divorce rate in the US can also support the hypothesis that divorce rate is positively associated with the frequency of gift exchanges.
 
 After reading this article and chart, Lily decided not to complain about her husband not giving her gifts often, because the frequent gift giving by partner may be the foreshadow of partner's unfaithfulness.
 
 ## Conclusion and Call to Action
 
-From the story of Lily, we learn that the divorce rate in the US just hit a record low in 2019, and is estimated to be in continuous declination in recent few years. However, the US still has the 6th highest divorce rate in the world. Many factors are associated with the disvorce rate, like the professions, age at marriage. And the median duration of marriages that end in divorce is around 7 years. Thus, please carefully consider clearly and do make adequate preparation before deciding to get married. Don't decide on impulse when you are young. After you get married, please spend time and communicate more with your partner, if you want to maintain your relationship and marriage, especially for those who work in untraditional careers. And be more patient and try to understand your partner if you are suffering "The seven-year itch". Last, you may need to pay attention to your partner's relational mobility if he/she all of a sudden shows commitment signals to you frequently like gift giving. 
+From the story of Lily, we learn that the divorce rate in the US just hit a record low in 2019, and is estimated to be in continuous declination in recent few years. However, the US still has the 6th highest divorce rate in the world. Many factors are associated with the disvorce rate, like the professions, age at marriage. And the median duration of marriages that end in divorce is around 7 years. Thus, please carefully consider clearly and do adequate preparation before deciding to get married. Don't decide on impulse when you are young. After you get married, please spend time and communicate more with your partner, if you want to maintain your relationship and marriage, especially for those who work in untraditional careers. And be more patient and try to understand your partner if you are suffering "The seven-year itch". Last, you may need to pay attention to your partner's relational mobility if he/she all of a sudden shows commitment signals to you frequently like gift giving. 
 
 ## Data Source: 
 1. Image 1, Image 2 and Image 3
