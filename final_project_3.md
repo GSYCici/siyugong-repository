@@ -84,6 +84,7 @@ I have already listed all the references in my story in Shorthand, and I list th
 
 1. Frank Olito. 2019. “How the Divorce Rate Has Changed over the Last 150 Years.” INSIDER, https://www.insider.com/divorce-rate-changes-over-time-2019-1?utm_source=copy-link&utm_medium=referral&utm_content=topbar
 2. Wendy Wang. 2020. “The U.S. Divorce Rate Has Hit a 50-Year Low.” Institute for Family Studies, https://ifstudies.org/blog/the-us-divorce-rate-has-hit-a-50-year-low
+3. Nesse, R. M. (2001). Natural selection and the capacity for subjective commitment. In R.M. Nesse (Ed.). Evolution and the Capacity for Commitment (pp. 1–44). New York: Russel Sage Foundation.
 
 ###### Picture Source:
 
