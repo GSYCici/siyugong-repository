@@ -32,7 +32,7 @@ Lily thought the one years data may not be convincing enough to compare the rati
 src="https://public.tableau.com/views/AverageNumberofDivorcesper1000PeoplebyCountries/Sheet2?:showVizHome=no&:embed=true" width="100%" height="600" seamless frameborder="0" scrolling="no"></iframe>
 _Image 2: Average Number of Divorces per 1,000 People by Countries_ (This image is interactive.)
 
-From this chart, the divorce rate in the US has fluctuated violently from 1920 t0 2018. And she found that the divorce rate was pretty high in the era when his mother, Margaret, got married, in 1980s. So Lily called her mom to understand the background and reasons of that high divorce rate. Her mother answered that the reasons are related to the history and cultural development of the United States.
+From this chart, the divorce rate in the US has fluctuated violently from 1920 to 2018. And she found that the divorce rate was pretty high in the era when his mother, Margaret, got married, in 1980s. So Lily called her mom to understand the background and reasons of that high divorce rate. Her mother answered that the reasons are related to the history and cultural development of the United States.
 
 * The Reason behind this Fluatuation
   * During World War I, women entered the workforce when the US joined  World War II. They gained more independence and freedom, leading to a higher divorce rate in the US. In 1940, the rate was 2 divorces per 1,000 people, but reached 3.4 in 1947. 
