@@ -6,25 +6,25 @@
 
 ### Part I
 
-Link to my Github repository for the part I:
+Link to my Github portfolio for the part I:
 https://gsycici.github.io/siyugong-repository/previous_final_project_SiyuGong
 
 1. I thought about the data and story that I can choose for my final project. At first, I thought about the migration route of migratory birds, and I looked for the websites about the Animals' protection. But I found that it's hard to find the data. Thus, I looked for the data of mental disorders from this website: http://ghdx.healthdata.org/gbd-results-tool
 2. After collecting all the data that I need, I made the outline of my final project. (The outline is in the Github repository for the part I)
 3. Based on this outline, I decided several elements of my final project, which are Brief introduction of the mental health disorders; Data visualizations; Telling the story from the data visualization; and Calling on society to pay more attention to mental health.
 4. Because the data visualizations are important for this project, I made the initial handed sketches for my data and story.
-5. After that, I documented the data source that I will use, and how I plan to use in the Github repository.
+5. After that, I documented the data source that I will use, and how I plan to use in the Github portfolio.
 6. Finally, I wrote a few paragraphs to summarize my approach to the project.
 
 ### Part II
 
-Link to my Github repository for the part II: 
+Link to my Github portfolio for the part II: 
 https://gsycici.github.io/siyugong-repository/final_project
 
 1. I got the feedback for my first part of final project, and it seemed that my project is not like a story, but a data visualization. I noticed that the trend lines of the depression rate for most countries are just straightly upward, which have no fluctuation. Thus, it's hard for me to tell the story of this depression data. So I decided to change my topic.
 2. I remembered I have read an interesting paper about the factors lead to the divorce, so I searched the data and research for the divorce. I found there are many things that I can talk about in this topic, so I decided to choose divorce as my final project topic.
 3. After collecting all the data and research, I did the data visualization first. I used different data source to make the various charts, including the divorce rate comparison among countries; the trend of divorce rate for different countries from 1920s to 2018; the duration of marriages that end in divorce; the professions impact on divorce rate; the average age of women at marriage; and the relational mobility associated with more frequent gift exchangs. I made these chart in Tableau, Flourish, Photoshop and Powerpoint. It took me a long time to clean and filter the data, and made the clear and pretty charts.
-4. After having the data visualization, I started building my GitHub repository. First, I wrote an outline of the storyboard, just like I did in part I, but with the different topic. Than I editted the repository based on that outline. I added text for analyze and explain the charts in the repository, and also referenced the research from experts. I cited the reference and data source.
+4. After having the data visualization, I started building my GitHub portfolio. First, I wrote an outline of the storyboard, just like I did in part I, but with the different topic. Than I editted the portfolio based on that outline. I added text for analyze and explain the charts in the portfolio, and also referenced the research from experts. I cited the reference and data source.
 5. I realized that the storyboard is still like a data visualization, but not a story. So I tried to use an imaginary characteristic, Lily, to be the role of the story, and made up some background for her. So that she can be the role who facing the divorce with her husband, and searching the information which actually I searched. So this can be a story for the project.
 6. Next, I started looking for the appropriate pictures that I can use in my storyboard. I referenced the library's guide to ensure I am using images correctly. I looked for the pictures in Unsplash and Google. I chose the pictures that have no copyright.
 7. And then, I set a list of questions for the interview, and sent them to my interviewees. 
